@@ -1,0 +1,10 @@
+body{
+    background-color: blanchedalmond;
+}
+
+input{
+    border-radius: 15px;
+    border-style: solid;
+    border: 2px solid black;
+    border-width: 2px;
+}
