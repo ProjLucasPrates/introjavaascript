@@ -5,3 +5,5 @@ http://projlucasprates.github.io/introjavaascript/DeclaracaoDeVariaveis/aula1.ht
 http://projlucasprates.github.io/introjavaascript/Funcoes/funcoes.html
 
 http://projlucasprates.github.io/introjavaascript/15_08/index.html
+
+https://projlucasprates.github.io/introjavaascript/IMC/imc.html
