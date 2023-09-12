@@ -8,4 +8,4 @@ http://projlucasprates.github.io/introjavaascript/15_08/index.html
 
 https://projlucasprates.github.io/introjavaascript/IMC/imc.html
 
-https://projlucasprates.github.io/introjavaascript/LacoRep/index.html
+https://projlucasprates.github.io/introjavaascript/LacosRep/index.html
