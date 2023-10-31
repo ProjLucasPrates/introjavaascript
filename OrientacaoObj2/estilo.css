@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+h2{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+p{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container-fluid{
+    color: 	#4169E1;
+}
+
+.texto1{
+    text-align: left;
+}
+
+.texto2{
+    text-align: right;
+}
+
+.texto3{
+    text-align: left;
+}
+
+.texto4{
+    text-align: right;
+}
+
+.container{
+    border-style: solid;
+    border-radius: 19px;
+}
+
+body{
+    background-color: #708090;
+}
