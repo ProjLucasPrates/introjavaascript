@@ -33,4 +33,4 @@ https://projlucasprates.github.io/introjavaascript/imgtroca/index.html
 
 # Form - validação:
 
-https://projlucasprates.github.io/introjavaascript/form_validaccao/index.html
+https://projlucasprates.github.io/introjavaascript/form_validacao/index.html
